@@ -1,0 +1,54 @@
+html {
+    /*background-image:url("../images/vadim-shchepilov-v-concept-087-02.jpg");*/
+    background-color:rgb(44, 81, 117);
+}
+
+body {
+    width:600px;
+    margin:auto;
+    background-color: rgb(26, 141, 131);
+    border:5px solid slateblue;
+    padding:50px;
+}
+
+h1 {
+    text-align:center;
+    font-size:50px;
+    color:aqua;
+    text-shadow:3px 3px 1px rgb(235, 57, 13);
+}
+
+.info {
+    display:block;
+    margin:30px 10px 10px 50px;
+    border:3px solid royalblue;
+    /*padding:0 10px 10px 30px;*/
+    font-size:20px;
+    font-style: italic;
+    color: tomato;
+    text-align:left;
+}
+
+p,a {
+    font-weight: bold;
+    font-size:25px;
+    color:cornflowerblue;
+    text-align: center;
+}
+
+img {
+    display:block;
+    margin:10px auto;
+}
+
+
+.avater img{
+    border-radius:100%;
+    overflow:hidden;
+    height: 100px;
+    width:100px;
+}
+
+.avater p{
+    color:yellow;
+}
